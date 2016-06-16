@@ -1,0 +1,14 @@
+/* 
+Theme Name: zBoom Music
+Version: 2.01
+Author: Tanzil Huda
+Author URI: tanzilhuda.com
+Description: this is mu first wordpress theme. it's lightweight and user friendly theme ever.
+tag: music, Masti, Lightweight
+
+ */
+ 
+ .comment-body .comment-author img{
+	 height: 30px;
+	 width: 30px;
+ }
